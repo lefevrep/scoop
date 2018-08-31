@@ -1,0 +1,19 @@
+{
+    "homepage": "https://http://www.baremetalsoft.com",
+    "description": "very powerfull GUI grep ",
+    "url": "http://www.baremetalsoft.com/baregrep/download.php?p=m",
+    "hash": "1ad56390fe51d75e36d4aad4fd1511eb295a82e9e3a8dd21c2eaa9814eb4ceb6", 
+    "version": "3.50a",
+    "pre_install": "mv \"$dir\\download.php\" \"$dir\\baretail.exe\"",
+    "bin": "baregrep.exe",
+    "shortcuts": [          
+        [                   
+            "baregrep.exe", 
+            "Baregrep"      
+        ]
+    ],               
+    "license": {                                                    
+        "identifier": "Freeware",                                   
+        "url": "https://www.baremetalsoft.com/baretail/licence.php" 
+    },                                                              
+}
