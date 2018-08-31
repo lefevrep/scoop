@@ -1,0 +1,15 @@
+{
+    "autoupdate": {
+        "url": "https://codeload.github.com/ritchielawrence/mtee/legacy.zip/master#mtee.zip"
+    },
+    "bin": "ritchielawrence-mtee-c849b52/bin/Release/mtee.exe",
+    "checkver": {
+        "github": "https://github.com/ritchielawrence/mtee"
+    },
+    "description": "multiple tee (overwrite/append multiple files from stdout)",
+    "hash": "221748edd4763571e395189772f166625f8e2b9429d1ee334228ef92f3f0c326",
+    "homepage": "https://ritchielawrence.github.io/mtee/",
+    "license": "MIT",
+    "url": "https://codeload.github.com/ritchielawrence/mtee/legacy.zip/master#mtee.zip",
+    "version": "2.21"
+}
