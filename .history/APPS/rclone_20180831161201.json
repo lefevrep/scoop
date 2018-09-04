@@ -1,0 +1,11 @@
+{
+    "autoupdate": {
+        "url": "https://downloads.rclone.org/rclone-current-windows-amd64.zip"
+    },
+    "description": "sync files and directories to and from a lot of places: http, (s)ftp, S3,... ",
+    "hash": "0420e14de580b3ca35e3ed102e23ddbd6eb5cb182ccc3311f9d7b5576c5c9ab0",
+    "homepage": "https://rclone.org/",
+    "license": "MIT",
+    "url": "https://downloads.rclone.org/rclone-current-windows-amd64.zip",
+    "version": "1.42"
+}
