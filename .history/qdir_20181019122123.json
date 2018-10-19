@@ -1,0 +1,12 @@
+{
+    "autoupdate": {
+        "url": "http://www.softwareok.com/?Download=Q-Dir"
+    },
+    "bin": "q-dir.exe",
+    "description": "File manager",
+    "hash": "e4824274f368bdfaba1f74d7c8d3e5685802220985ce1220174f41f5aa5df953",
+    "homepage": "http://www.softwareok.com/?seite=Freeware/Q-Dir",
+    "license": "Freeware",
+    "url": "http://www.softwareok.com/?Download=Q-Dir#/qdirlast.zip",
+    "version": "7.24"
+}
