@@ -1,11 +1,11 @@
 {
     "autoupdate": {
-        "url": "http://www.softwareok.com/?Download=Q-Dir&goto=../Download/Q-Dir_Portable_x64.zip"
+        "url": "http://www.softwareok.com/?Download=Q-Dir&goto=../Download/Q-Dir_Installer_x64.zip"
     },
     "bin": "q-dir.exe",
     "description": "Q-dir File manager",
     "homepage": "http://www.softwareok.com/?seite=Freeware/Q-Dir",
     "license": "Freeware",
-    "url": "http://www.softwareok.com/?Download=Q-Dir&goto=../Download/Q-Dir_Portable_x64.zip",
+    "url": "http://www.softwareok.com/?Download=Q-Dir&goto=../Download/Q-Dir_Installer_x64.zip",
     "version": "7.24"
 }
