@@ -1,0 +1,9 @@
+{
+    "bin": "sqliteman.exe",
+    "description": "old but powerful Sqlite manager",
+    "hash": "56026cbd0bbeb980823b2aced57b93dfd74b40890263276fbebc51c355b64c6e",
+    "homepage": "https://sourceforge.net/projects/sqliteman",
+    "license": "Freeware",
+    "url": "https://sourceforge.net/projects/sqliteman/files/sqliteman/1.2.2/Sqliteman-1.2.2-win32.zip/download",
+    "version": "1.2.2"
+}
